@@ -18,17 +18,29 @@
 
 ## 📂 Estrutura do Projeto
 poxa_rafa/
+
 ├── controllers/ # Lógicas dos endpoints
+
 ├── database/ # Conexão com o SQLite
+
 ├── docs/ # Documentação Swagger gerada automaticamente
+
 ├── middleware/ # Middleware de autenticação
+
 ├── models/ # Modelos do banco de dados
+
 ├── routes/ # Rotas da aplicação
+
 ├── utils/ # Funções auxiliares (JWT, etc)
+
 ├── .env # Variáveis de ambiente
+
 ├── Dockerfile # Dockerfile para build da API
+
 ├── docker-compose.yml
+
 ├── go.mod / go.sum # Gerenciador de dependências Go
+
 └── main.go # Ponto de entrada da aplicação
 
 🤝 Contribuições
