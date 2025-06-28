@@ -1,0 +1,4 @@
+# Go 
+*.db
+*.log
+.env
